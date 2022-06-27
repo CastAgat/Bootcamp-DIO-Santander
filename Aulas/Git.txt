@@ -1,0 +1,11 @@
+cd
+cd ..
+dir 
+ls
+ls -a
+mkdir
+del
+rmdir
+echo
+echo >
+
